@@ -1,11 +1,13 @@
 <body>
 
   
-  <h1 style="background-color:blue"> 
+  <h2 style="background-color:blue"> 
    Redes Sociais: 
-  </h1> 
+  </h2> 
   
-  <a  href="https://linkedin.com/in/hideki-abe">linkedin.com/in/hideki-abe</a><br>
+  <a  href="https://linkedin.com/in/hideki-abe">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   
   <a  href="https://www.instagram.com/hide.kii/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
