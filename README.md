@@ -2,10 +2,12 @@
 
   
   <h1 style="background-color:blue"> 
-   LinkedIn: 
+   Redes Sociais: 
   </h1> 
   
-  <a  href="https://linkedin.com/in/hideki-abe">linkedin.com/in/hideki-abe</a>
+  <a  href="https://linkedin.com/in/hideki-abe">linkedin.com/in/hideki-abe</a><br>
+  
+  <a  href="https://www.instagram.com/hide.kii/">Instagram</a>
   
   <div style="display: inline_block"><br>
       <h2 >
