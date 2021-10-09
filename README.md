@@ -13,7 +13,10 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
-  <img align="center" src="https://i.imgur.com/Z9bdip0.gif" alt="deku"  width="250" />
+  <br>
+  <br>
+  
+  <img hspace="350px" vspace="100px" src="https://i.imgur.com/Z9bdip0.gif" alt="deku"  width="250" />
   
   <div style="display: inline_block"><br>
       <h2 >
