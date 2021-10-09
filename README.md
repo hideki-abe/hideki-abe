@@ -1,7 +1,7 @@
 <body>
 
   
-  <h2 style="background-color:blue"> 
+  <h2> 
    Redes Sociais: 
   </h2> 
   
