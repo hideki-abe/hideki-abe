@@ -5,8 +5,8 @@
    Redes Sociais: 
   </h2> 
   
-  <a  href="https://linkedin.com/in/hideki-abe">
-    <img border-radius:5px src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a border-radius:5px href="https://linkedin.com/in/hideki-abe">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
   <a  href="https://www.instagram.com/hide.kii/">
