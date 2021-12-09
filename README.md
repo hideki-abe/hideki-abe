@@ -10,7 +10,7 @@
   </a>
   
   <a  href="https://www.instagram.com/hide.kii/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img height=40px src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
   
