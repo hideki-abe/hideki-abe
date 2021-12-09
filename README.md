@@ -18,7 +18,7 @@
   
   <div style="display: inline_block"><br>
       <h2 >
-        Alguns conhecimentos: 
+        Estou estudando: 
       </h2>
       <a href="https://www.oracle.com"><img align="justify"  height=40px src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
       <a href="https://www.javascript.com/"><img align="justify"  height=40px src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><a/>
