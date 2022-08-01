@@ -18,12 +18,46 @@
   
   <div style="display: inline_block"><br>
       <h2 >
-        Estou estudando: 
+        Noções de: 
       </h2>
-      <a href="https://www.oracle.com"><img align="justify"  height=40px src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
-      <a href="https://www.javascript.com/"><img margin-bottom=20px align="justify"  height=40px src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><a/>
-      <a href="https://www.w3schools.com/css/"><img  align="justify"  height=40px src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-      <a href="https://pt.wikipedia.org/wiki/HTML5"><img align="justify"  height=40px src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+Linguagens:
+
+- Java/Groovy
+- Javascript/Typescript
+
+Banco de Dados:
+
+- PostgreeSQL
+- Modelagem de Banco de Dados
+  
+Ferramentas:
+
+- Git/Github
+- Gradle/Maven
+- Regex
+  
+Design Patterns: 
+  
+- Webservices e Microservices
+- API Rest
+- Clean Code
+- SOLID
+- Padrão MVC
+  
+Frameworks: 
+  
+- Spring 
+- Angular
+- Grails
+- Micronaut
+- Swagger
+- Spock
+
+Outros conhecimentos: 
+
+- Metodologias ágeis
+- Web Crawler em Java/Groovy
+- Kafka
 
     
 </body>
