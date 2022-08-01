@@ -25,6 +25,11 @@ Linguagens:
 - Java/Groovy
 - Javascript/Typescript
 
+Design:
+
+- HTML/CSS
+- Figma
+
 Banco de Dados:
 
 - PostgreeSQL
