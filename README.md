@@ -56,15 +56,12 @@ Frameworks:
   
 - Spring 
 - Angular
-- Grails
-- Micronaut
 - Swagger
-- Spock
 
 More: 
 
-- Metodologias ágeis
-- Web Crawler em Java/Groovy
+- Agile Methodology
+- Web Crawler with Java
 - Kafka
 
     
