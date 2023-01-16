@@ -36,21 +36,16 @@ Design:
 Database:
 
 - PostgreeSQL
-- Modelagem de Banco de Dados
   
 Tools:
 
 - Git/Github
 - Gradle/Maven
-- Regex
-  
+
 Design Patterns: 
   
 - Webservices e Microservices
 - API Rest
-- Clean Code
-- SOLID
-- Padrão MVC
   
 Frameworks: 
   
@@ -62,7 +57,6 @@ More:
 
 - Agile Methodology
 - Web Crawler with Java
-- Kafka
 
     
 </body>
