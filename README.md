@@ -23,40 +23,18 @@
       <h2 >
         Knowledges: 
       </h2>
-Languages:
-
+    
 - Java/Groovy
 - Javascript/Typescript
-
-Design:
-
-- HTML/CSS
-- Figma
-
-Database:
-
 - PostgreeSQL
-  
-Tools:
-
 - Git/Github
 - Gradle/Maven
-
-Design Patterns: 
-  
 - Webservices e Microservices
-- API Rest
-  
-Frameworks: 
-  
+- API Rest  
 - Spring 
 - Angular
 - Swagger
-
-More: 
-
 - Agile Methodology
-- Web Crawler with Java
 
     
 </body>
