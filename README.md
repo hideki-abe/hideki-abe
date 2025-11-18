@@ -3,7 +3,7 @@
   <h2> 
    About me: 
   </h2>
-  I'm a computer engineer student at UFG and I have interest in web development. I started in a junior enterprise, where all the collaborators were students just like me. I was able to know more about software development and more, customer contact and teamwork. We are incapable of making great achievements without teamwork. Besides that, I also participated a learning program, Acelera ZG, where I had a great learning about backend and frontend web. At the end of the program, I was hired as a intern, where I learned a lot for a couple months. 
+  I'm a computer engineer student at UFG and I have interest in web development.
   <h2> 
    Where you can find me: 
   </h2> 
@@ -24,7 +24,7 @@
         Knowledges: 
       </h2>
     
-- Java/Groovy
+- Java
 - Javascript/Typescript
 - PostgreeSQL
 - Git/Github
@@ -33,7 +33,9 @@
 - API Rest  
 - Spring 
 - Angular
-- Swagger
+- Django
+- Docker
+- Python
 - Agile Methodology
 
     
